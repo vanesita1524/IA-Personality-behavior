@@ -4,6 +4,8 @@
 This project predicts if a person is **introvert** or **extrovert** using Python. It includes data cleaning, analysis, preprocessing, modeling, cross-validation, and feature selection. 
 The dataset used in this project is available here:  
 [Personality Traits Dataset (Kaggle)](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
+
+This PowerPoint presentation provides a comprehensive overview of the project, including the dataset analysis, machine learning model evaluation, methodology, and final results. Download it to explore the complete development process and findings: 
 ---
 ## 1. Tools and Libraries
 
