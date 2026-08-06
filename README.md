@@ -6,9 +6,9 @@ The dataset used in this project is available here:
 [Personality Traits Dataset (Kaggle)](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
 
 ---
-## 📄 Project Documentation
+## IMPORTANT 📄 Project Documentation
 
-The repository includes a detailed PowerPoint presentation (`personality dataset ppt.pdf`) that documents the entire project development process. It covers the dataset analysis, machine learning model evaluation, methodology, implementation, and final results.
+The repository includes a detailed PowerPoint presentation (`personality dataset ppt.pdf`)(DOWNLOAD REQUIRED TO VIEW) that documents the entire project development process. It covers the dataset analysis, machine learning model evaluation, methodology, implementation, and final results.
 
 ---
 ## 1. Tools and Libraries
